@@ -4,8 +4,7 @@
 
 <img src = 'https://github.com/Samarth-06/Samarth-06/blob/main/images/RXi9.gif' alt = 'Awesome Matrix Code' height=50% width='45%' align='right'/>
 
-[![Static Badge](https://img.shields.io/badge/Samarth_Waghrulkar-LinkedIn?style=flat-square&logo=LinkedIn&logoColor=0077B5&label=LinkedIn&labelColor=0077B5&color=grey&link=%20www.linkedin.com%2Fin%2Fsamarth-waghrulkar-46b854323)]
-(https://www.linkedin.com/in/samarth-waghrulkar-46b854323) [![Static Badge](https://img.shields.io/badge/samwaghrulkar%40gmail.com-Gmail?style=flat-square&logo=Gmail&logoColor=white&labelColor=grey&color=c14438&link=mailto:samwaghrulkar%40gmail.com)](mailto:samwaghrulkar@gmail.com)
+[![Static Badge](https://img.shields.io/badge/Samarth_Waghrulkar-LinkedIn?style=flat-square&logo=LinkedIn&logoColor=0077B5&label=LinkedIn&labelColor=0077B5&color=grey&link=%20www.linkedin.com%2Fin%2Fsamarth-waghrulkar-46b854323)](https://www.linkedin.com/in/samarth-waghrulkar-46b854323) [![Static Badge](https://img.shields.io/badge/samwaghrulkar%40gmail.com-Gmail?style=flat-square&logo=Gmail&logoColor=white&labelColor=grey&color=c14438&link=mailto:samwaghrulkar%40gmail.com)](mailto:samwaghrulkar@gmail.com)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarikIshtar007" alt="MarikIshtar007" /> </p>
