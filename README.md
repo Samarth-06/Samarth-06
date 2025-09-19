@@ -13,10 +13,10 @@
 <br><br><br>
 
 ## :computer: Technologies I Love
-* Flutter
+* Web Development
 * Machine Learning
 * Data Science
-* Frontend and Backend Web Development
+* Computer Architecture
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samarth-06&layout=compact&theme=dark)
 
@@ -29,12 +29,12 @@
  ## Who am I?
  ```python
  class WhoAmI:
- 	user = 'Haany Ali'
+ 	user = 'Samarth Waghrulkar'
 		current_work = 'Writing code'
 		hobbies = [
-				'Drawing',
-				'Watching Anime',
-				'Reading Sci-Fi Novels'
+				'Reading Personal Development Books',
+				'listening to Music',
+				'Watching Sci-Fi Movies'
 				'Being up all Night chasing that ONE BUG...'
 			]
 	
@@ -42,20 +42,19 @@
 		return Pune_India()
 	
 	def Ambitions():
-		LearnJapanese()
-		CreateSkyNet()
-		FinishMyNovel()
+		Learn_4*4_Cube()
+		Explore_the_Cosmos()
+		FinishMyProjects()
 		# Assume 10 more awesome ambitions here  ;)
 	
  ```
  
 ## Current Works
- * Breaking into Cybersec !!
- * I'm currently working on 🔭 building **Mobile Apps using Flutter** and working up on polishing my skills 🌱 in **Competitive Programming**.
+ * Breaking into Hackathons !!
+ * I'm currently working on 🔭 building Ml model and working up on polishing my skills 🌱 in **Competitive Programming**.
  
 ## Other Stuff
-  - :octocat: [My Resume](https://drive.google.com/file/d/1tFL1gHFPw3MXzfW98oQEFjs2jQSGiVjw/view?usp=share_link)
-  - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!! :grimacing: )
+  - If you have any suggestions to this README, feel free to pull up a request.
 
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samarth-06&theme=dark&show_icons=true)
